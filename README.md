@@ -9,16 +9,6 @@ Full-stack developer who writes code that *usually* works on the first try (okay
 - 🎯 Turning coffee into code and ideas into features
 - 📚 Always learning, because yesterday's best practices are today's tech debt
 
-## 🛠️ Tech Stack
-```javascript
-const aditya = {
-  frontend: ['React', 'JavaScript', 'HTML/CSS'],
-  backend: ['Node.js', 'Express'],
-  currentlyExploring: 'New ways to break things... I mean, build things',
-  superpower: 'Debugging at 2 AM',
-};
-```
-
 ## 📬 Let's Connect!
 Got an interesting project or just want to chat about tech? Drop me a line at **adityacholkar@gmail.com**
 
